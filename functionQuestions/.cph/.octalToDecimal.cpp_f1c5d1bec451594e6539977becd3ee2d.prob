@@ -1,0 +1,1 @@
+{"name":"Local: octalToDecimal","url":"/home/rosekamal/cpp-codes/functionQuestions/octalToDecimal.cpp","tests":[{"id":1603807384149,"input":"17","output":"15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rosekamal/cpp-codes/functionQuestions/octalToDecimal.cpp","group":"local","local":true}
