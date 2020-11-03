@@ -1,0 +1,1 @@
+{"name":"Local: kadane'sAlgorithm","url":"/home/rosekamal/CPP/arrayChallenges/kadane'sAlgorithm.cpp","tests":[{"id":1604389444708,"input":"5\n-1 4 -6 7 -4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rosekamal/CPP/arrayChallenges/kadane'sAlgorithm.cpp","group":"local","local":true}
