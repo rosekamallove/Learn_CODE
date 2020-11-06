@@ -14,7 +14,7 @@ bool f(int x, int y)
 }
 
 void vectorDemo()
-
+{
     vector<int> A = {11, 2, 3, 14};
     cout << A[1] << endl;
 
@@ -51,7 +51,7 @@ void vectorDemo()
     }
     cout << endl;
 
-    for (int x : A)     
+    for (int x : A)
     {
         cout << x << "  ";
     }
@@ -96,6 +96,27 @@ void setDemo()
     }
 
     S.erase(1);
+}
+
+void mapDemo()
+{
+    map<int, int> A;
+    A[1] = 100;
+    A[2] = 12;
+    A[3] = 123;
+
+    map<char, int> cnt;
+    string x = "rachit jain";
+
+    for (char c : x)
+    {
+        cnt[c]++;
+    }
+    cout << cnt['a'] << " " << cnt['z'] << endl;
+
+    A.find(100);
+    A.erase(100);
+    A.find(100);
 }
 
 int main()
