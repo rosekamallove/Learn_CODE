@@ -119,6 +119,26 @@ void mapDemo()
     A.find(100);
 }
 
+void powerOfSet()
+{
+    /*
+    [x,y] add a interval from x to y
+    add[2,3]
+    add[10,20]
+    add[30, 400]
+    give me the interval 1 that contains '13'
+    */
+    set<pair<int, int>> 5;
+    S.insert({2, 3});
+    S.insert({10, 20});
+    S.insert({30, 400});
+    S.insert({401, 450});
+
+    // pair{a,b} is smaller than pair{c,d} iff
+    // (a<b)or(a==b and c<d)
+
+}
+
 int main()
 {
     setDemo();
