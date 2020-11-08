@@ -14,6 +14,7 @@ bool f(int x, int y)
 }
 
 void vectorDemo()
+{
 
     vector<int> A = {11, 2, 3, 14};
     cout << A[1] << endl;
