@@ -55,6 +55,10 @@ int main()
                 arr[i][j] = arr[j][i];
                 arr[j][i] = old;
             }
+            /* 
+            can also be performed wo the conditionals
+            by iterating j from i instead of 0, to n;
+            */
         }
     }
 
