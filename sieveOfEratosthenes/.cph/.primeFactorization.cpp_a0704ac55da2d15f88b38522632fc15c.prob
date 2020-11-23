@@ -1,0 +1,1 @@
+{"name":"Local: primeFactorization","url":"/home/rosekamal/CODE/CPP/sieveOfEratosthenes/primeFactorization.cpp","tests":[{"id":1606057554881,"input":"12","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rosekamal/CODE/CPP/sieveOfEratosthenes/primeFactorization.cpp","group":"local","local":true}
