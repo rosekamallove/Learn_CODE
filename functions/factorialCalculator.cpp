@@ -3,21 +3,19 @@ using namespace std;
 
 int factorial(int n)
 {
-    int fact=1;
-    for(int i=2; i<=n; i++)
+    int fact = 1;
+    for (int i = 2; i <= n; i++)
     {
-        fact = fact*i;
+        fact = fact * i;
     }
     return fact;
 }
 
-
 int main()
 {
-   int n;
-   cin>>n;
+    int n;
+    cin >> n;
 
-   int ans = factorial(n);
-   cout << ans << endl;
-
+    int ans = factorial(n);
+    cout << ans << endl;
 }

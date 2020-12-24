@@ -1,20 +1,20 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 int fact(int x)
 {
-    int factorial=1;
-     
-    for (int i=2; i<=x; i++)
+    int factorial = 1;
+
+    for (int i = 2; i <= x; i++)
     {
-        factorial = factorial*i;
+        factorial = factorial * i;
     }
     return factorial;
 }
 
 int main()
 {
-    int n,r;
+    int n, r;
     cout << "enter n and r respectively" << endl;
     cin >> n >> r;
 
@@ -22,7 +22,7 @@ int main()
     // int b = fact(n-r);
     // int c = fact(r);
 
-    int d = fact(n)/(fact(r)*fact(n-r));
+    int d = fact(n) / (fact(r) * fact(n - r));
 
     cout << d << endl;
 }

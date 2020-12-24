@@ -1,12 +1,12 @@
-#include<iostream>
-#include<math.h>
+#include <iostream>
+#include <math.h>
 using namespace std;
 
 bool isPrime(int num)
 {
-    for (int x =2; x<=sqrt(num); x++)
+    for (int x = 2; x <= sqrt(num); x++)
     {
-        if(num%x==0)
+        if (num % x == 0)
         {
             return false;
         }
@@ -16,16 +16,15 @@ bool isPrime(int num)
                 return true;
             }
         }
-        
     }
 }
 int main()
 {
-    int a,b;
-    cin>>a;
-    cin>>b;
+    int a, b;
+    cin >> a;
+    cin >> b;
 
-    for(int i; i<=b; i++)
+    for (int i; i <= b; i++)
     {
         if (isPrime(i))
         {
