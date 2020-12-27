@@ -66,7 +66,6 @@ int main()
     for (int i = 0; i < 3; i++)
     {
         //cin >> arr[i].name; as the class memeber is private we can not access it like this.
-
         arr[i].setName(s);
         cin >> arr[i].age;
         cin >> arr[i].gender;
