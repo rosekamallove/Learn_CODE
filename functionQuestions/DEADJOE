@@ -1,3 +1,11 @@
+
+*** These modified files were found in JOE when it aborted on Thu Dec 24 19:42:35 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+addingTwoBinary.cpp
+
+*** File 'addingTwoBinary.cpp'
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -123,3 +131,8 @@ int main()
 
     cout << addingTwoBinary(a, b) << endl;
 }
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
