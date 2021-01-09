@@ -1,1 +1,0 @@
-{"name":"Local: 6-selectionSort","url":"/home/rosekamal/cpp-codes/arrays/6-selectionSort.cpp","tests":[{"id":1604037231544,"input":"5\n1 45 78 65 25","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rosekamal/cpp-codes/arrays/6-selectionSort.cpp","group":"local","local":true}

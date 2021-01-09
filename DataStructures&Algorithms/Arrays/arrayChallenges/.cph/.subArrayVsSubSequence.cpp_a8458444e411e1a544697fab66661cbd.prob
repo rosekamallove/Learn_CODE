@@ -1,1 +1,0 @@
-{"name":"Local: subArrayVsSubSequence","url":"/home/rosekamal/cpp-codes/arrayChallenges/subArrayVsSubSequence.cpp","tests":[{"id":1604202406411,"input":"5\n1 2 0 7 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rosekamal/cpp-codes/arrayChallenges/subArrayVsSubSequence.cpp","group":"local","local":true}
