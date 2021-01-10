@@ -5,6 +5,9 @@ So why not contribute to it ?
 &NewLine;
 &NewLine;
 
+>“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.” --Bill Gates
+
+>"Everyone should code, It teaches you how to think." --Steve Jobs
 ---
 
 - ### What are the features?
@@ -34,6 +37,20 @@ So why not contribute to it ?
     - Getting in a habbit of Open-Source Contribution
 
 ---
+# Details about the Folders in the Repository :
+
+|S.No  |  Folder/File Name    |   About the contents   |
+|----- |------           | ------                 |
+|1.    | Apna College    | This folder contains all the code fron the [C++ Complete Placement Course on Apna College](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)   .     |
+|2.    | Articles To Read    | This folder contains all the roadmaps, guides, checklists.|
+|3.    | Programming Books    | This folder contains a lot of programming related books, (Reading them is not recommended inly use them for referrence purposes.    |
+|4.    | Questions  | This folder contains Data Strucutures and Algorithm questions.  The problem statement and template and the GFG links are already written you just have to write the code.|
+|5.    | STL   | This folder contains the main three topics of the Standard Template Library in C++ (``` Vectors ``` ``` Sets ``` and ``` Maps ```).|
+|6.    | theNewBoston   | This folder contains the code for [The New Boston C++ Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83)|
+|7.    | templateBasic.cpp    | This is just a basic C++ template which ``` #include ``` the ```<bits/stdc++.h>``` header file which conatains almost all the header files so you can be free of the hassle of including every header file you need.|
+|8.    | templateCP.cpp   |This is the compeptetve coding template most of the coders out there use. (if you are a beginner the please do yourself a favor and ignore this) |
+
+
 
 
 ## Setting up C++ Coding Environment on Windows:
