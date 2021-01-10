@@ -1,8 +1,4 @@
-#include <vectors>
-#include "stdafx.h"
-#include <set>
-#include <algorithm>
-#include <iostream>
+#include<bits/stdc++.h>
 
 // // #include <vectors>
 // #include <algorithms>
