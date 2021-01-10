@@ -56,9 +56,9 @@ So why not contribute to it ?
 ## Setting up C++ Coding Environment on Windows:
  ### It is a bit complicated for windows I will highly recommend you watch a video rather than an article
 
-[Video Setup Hindi :](https://www.youtube.com/watch?v=0yn7irrHzM8&t=12s)
+[Video Setup Hindi](https://www.youtube.com/watch?v=0yn7irrHzM8&t=12s)
 
-[Video Setup English: ](https://www.youtube.com/watch?v=DIw02CaEusY)
+[Video Setup English ](https://www.youtube.com/watch?v=DIw02CaEusY)
 
 [VS-Code Article](https://code.visualstudio.com/docs/cpp/config-mingw)
 
@@ -77,15 +77,15 @@ So why not contribute to it ?
 
 Old:
 
-[Windows CMD Tutorial :](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
+[Windows CMD Tutorial](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
 
 Recommended for Windows:
 
-[Windows PowerShell Tutorial :](https://www.youtube.com/watch?v=IHrGresKu2w)
+[Windows PowerShell Tutorial](https://www.youtube.com/watch?v=IHrGresKu2w)
 
 For Linux users: 
 
-[Linux CLI :](https://www.youtube.com/watch?v=cBokz0LTizk)
+[Linux CLI](https://www.youtube.com/watch?v=cBokz0LTizk)
 
 ### Now for compiling the C++ code follow along:
 
@@ -102,24 +102,7 @@ Step 4 -> Compile using ``` g++ file.cpp -o file ``` this will make an executabl
 Note: You can choose the name of the output executable file it does not have to be same as the C++ file.
 
 
-# Details about the Folders in the Repository :
 
-|S.No  |  Folder/File Name    |   About the contents   |
-|----- |------           | ------                 |
-|1.    | Apna College    | This folder contains all the code fron the [C++ Complete Placement Course on Apna College](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)   .     |
-|2.    | Articles To Read    | This folder contains all the roadmaps, guides, checklists.|
-|3.    | Programming Books    | This folder contains a lot of programming related books, (Reading them is not recommended inly use them for referrence purposes.    |
-|4.    | Questions  | This folder contains Data Strucutures and Algorithm questions.  The problem statement and template and the GFG links are already written you just have to write the code.|
-|5.    | STL   | This folder contains the main three topics of the Standard Template Library in C++ (``` Vectors ``` ``` Sets ``` and ``` Maps ```).|
-|6.    | theNewBoston   | This folder contains the code for [The New Boston C++ Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83)|
-|7.    | templateBasic.cpp    | This is just a basic C++ template which ``` #include ``` the ```<bits/stdc++.h>``` header file which conatains almost all the header files so you can be free of the hassle of including every header file you need.|
-|8.    | templateCP.cpp   |This is the compeptetve coding template most of the coders out there use. (if you are a beginner the please do yourself a favor and ignore this) |
-
-
->“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”
->—Bill Gates
-
->"Everyone should code, It teaches you how to think." -Steve Jobs
 
 
 ### So what is Open-Source?
