@@ -1,5 +1,5 @@
 # Learn_CODE with your peers!
-This is a repository which contains all the topics that I @rosekamallove studied while learning coding and am currently learning Data Structures and Algorithms, and all the code I wrote are in this repo and I am thninkig of making this repo more like a Learning resourse. 
+This is a repository which contains all the topics that I @rosekamallove studied while learning coding and am currently learning Data Structures and Algorithms, and all the code I wrote are in this repo and I am thinking of making this repo more like a Learning resourse. 
 So why not contribute to it ?  
 
 &NewLine;
@@ -43,12 +43,12 @@ So why not contribute to it ?
 |----- |------           | ------                 |
 |1.    | Apna College    | This folder contains all the code fron the [C++ Complete Placement Course on Apna College](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)   .     |
 |2.    | Articles To Read    | This folder contains all the roadmaps, guides, checklists.|
-|3.    | Programming Books    | This folder contains a lot of programming related books, (Reading them is not recommended inly use them for referrence purposes.    |
-|4.    | Questions  | This folder contains Data Strucutures and Algorithm questions.  The problem statement and template and the GFG links are already written you just have to write the code.|
+|3.    | Programming Books    | This folder contains a lot of programming related books, (Reading them is not recommended only use them for reference purposes.    |
+|4.    | Questions  | This folder contains Data Structures and Algorithm questions.  The problem statement and template and the GFG links are already written you just have to write the code.|
 |5.    | STL   | This folder contains the main three topics of the Standard Template Library in C++ (``` Vectors ``` ``` Sets ``` and ``` Maps ```).|
 |6.    | theNewBoston   | This folder contains the code for [The New Boston C++ Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83)|
 |7.    | templateBasic.cpp    | This is just a basic C++ template which ``` #include ``` the ```<bits/stdc++.h>``` header file which conatains almost all the header files so you can be free of the hassle of including every header file you need.|
-|8.    | templateCP.cpp   |This is the compeptetve coding template most of the coders out there use. It has a lot of macros to make you fast during the contests (if you are a beginner the please do yourself a favor and ignore this) |
+|8.    | templateCP.cpp   |This is the compeptetve coding template most of the coders out there use. It has a lot of macros to make you fast during the contests (if you are a beginner then please do yourself a favor and ignore this) |
 
 
 
