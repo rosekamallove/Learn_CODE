@@ -22,8 +22,58 @@ So why not contribute to it ?
 -> Books for DSA etc...
 
 -> Getting in a habbit of Open-Source Contribution
- 
+
 ---
+
+
+## Setting up C++ Coding Environment on Windows:
+ ### It is a bit complicated for windows I will highly recommend you watch a video rather than an article
+
+[Video Setup Hindi :](https://www.youtube.com/watch?v=0yn7irrHzM8&t=12s)
+
+[Video Setup English: ](https://www.youtube.com/watch?v=DIw02CaEusY)
+
+[VS-Code Article](https://code.visualstudio.com/docs/cpp/config-mingw)
+
+## Setting up C++ Coding Environment on Windows:
+
+### It is very easy on linux... just copy paste in the following commands in the terminal.
+
+#### `sudo apt update`
+#### `sudo apt install build-essential`
+
+### And that's it.
+
+
+## Compiling C++ code on the terminal :
+ ( I would suggest you going through one of the following tutorial for learning the command line before compiling c++ using the terminal)
+
+Old:
+
+[Windows CMD Tutorial :](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
+
+Recommended for Windows:
+
+[Windows PowerShell Tutorial :](https://www.youtube.com/watch?v=IHrGresKu2w)
+
+For Linux users: 
+
+[Linux CLI :](https://www.youtube.com/watch?v=cBokz0LTizk)
+
+### Now for compiling the C++ code follow along:
+
+Step 1 -> Check if g++ is installed on your computer or not by typing ``` g++ --version ``` on your terminal window.
+
+Step 2 -> Go to the folder containing the c++ files ``` cd Learn_Code```
+
+Step 3 -> Compile using ``` g++ file.cpp ``` this will make a executabel file named ```a.out``` which can be executed by ``` ./a.out ```
+
+Alternatively:
+
+Step 4 -> Compile using ``` g++ file.cpp -o file ``` this will make an executable file named ``` file ``` which can be executed by ``` ./file ```.
+
+Note: You can choose the name of the output executable file it does not have to be same as the C++ file.
+
 ### So what is Open-Source?
 
 Open source is a term that originally referred to open source software (OSS). Open source software is code that is designed to be publicly accessible—anyone can see, modify, and distribute the code as they see fit.
@@ -44,11 +94,30 @@ A version control system, or VCS, tracks the history of changes as people and te
 
 -- Why were changes needed?
 
+#### I Wil Highly recommend you go through the following artile at least once.
+
 [Git&&Github Article ](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+
+## Setting Up Git and Github on Windows:
 
 [Git Complete Setup on Windows (article)](https://phoenixnap.com/kb/how-to-install-git-windows)
 
 [Git Complete Setup on Windows (video)](https://www.youtube.com/watch?v=J_Clau1bYco)
+
+## Setting up Git and Github on Linux:
+
+(The following commands are for Ubuntu and other Debian based distros like Pop-os etc, you can google things for your specific distro. ) 
+
+### Installing Git:
+
+#### `sudo apt-get install git`
+
+### Setting up Git:
+
+#### `git config --global user.name "username"`
+#### `git config --global user.email "useremail@example.com"`
+
+
 
 ---
 
