@@ -10,7 +10,7 @@ So why not contribute to it ?
 >"Everyone should code, It teaches you how to think." --Steve Jobs
 ---
 
-- ### What are the features?
+- ### What are the features of this repo?
 
     - All of the code files of the Apna College Playlist.
 
@@ -48,7 +48,7 @@ So why not contribute to it ?
 |5.    | STL   | This folder contains the main three topics of the Standard Template Library in C++ (``` Vectors ``` ``` Sets ``` and ``` Maps ```).|
 |6.    | theNewBoston   | This folder contains the code for [The New Boston C++ Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83)|
 |7.    | templateBasic.cpp    | This is just a basic C++ template which ``` #include ``` the ```<bits/stdc++.h>``` header file which conatains almost all the header files so you can be free of the hassle of including every header file you need.|
-|8.    | templateCP.cpp   |This is the compeptetve coding template most of the coders out there use. (if you are a beginner the please do yourself a favor and ignore this) |
+|8.    | templateCP.cpp   |This is the compeptetve coding template most of the coders out there use. It has a lot of macros to make you fast during the contests (if you are a beginner the please do yourself a favor and ignore this) |
 
 
 
