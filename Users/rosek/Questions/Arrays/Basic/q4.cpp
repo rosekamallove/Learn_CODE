@@ -1,4 +1,6 @@
-// Find the maximum and minimum element in an array
+/*
+Reverse an array
+*/
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,5 +1,6 @@
-// Find the maximum and minimum element in an array
-
+/*
+write a program to sort a given array
+*/
 #include <bits/stdc++.h>
 using namespace std;
 int main()

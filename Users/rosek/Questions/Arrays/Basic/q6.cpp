@@ -1,5 +1,6 @@
-// Find the maximum and minimum element in an array
-
+/*
+Find the kth largest and kth smallest number in an array
+*/
 #include <bits/stdc++.h>
 using namespace std;
 int main()

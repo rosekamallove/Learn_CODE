@@ -1,5 +1,6 @@
-// Find the maximum and minimum element in an array
-
+/*
+Given an number n, find the number of occurences of n in the array
+*/
 #include <bits/stdc++.h>
 using namespace std;
 int main()

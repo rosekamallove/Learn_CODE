@@ -34,7 +34,8 @@ So why not contribute to it ?
         - App Development
         - Competitive Coding
 
-    - Getting in a habbit of Open-Source Contribution
+    - Getting in a habbit of Open-Source Contribution.
+    - Getting in a habbit of looking at other people's code. 
 
 ---
 # Details about the Folders in the Repository :
@@ -47,8 +48,11 @@ So why not contribute to it ?
 |4.    | Questions  | This folder contains Data Structures and Algorithm questions.  The problem statement and template and the GFG links are already written you just have to write the code.|
 |5.    | STL   | This folder contains the main three topics of the Standard Template Library in C++ (``` Vectors ``` ``` Sets ``` and ``` Maps ```).|
 |6.    | theNewBoston   | This folder contains the code for [The New Boston C++ Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83)|
-|7.    | templateBasic.cpp    | This is just a basic C++ template which ``` #include ``` the ```<bits/stdc++.h>``` header file which conatains almost all the header files so you can be free of the hassle of including every header file you need.|
-|8.    | templateCP.cpp   |This is the compeptetve coding template most of the coders out there use. It has a lot of macros to make you fast during the contests (if you are a beginner then please do yourself a favor and ignore this) |
+
+|7.    | Users    | This is the folder you are supposed to be coding in, make a direcotry of your name copy the questions foflder in it and start solving and then create a pull request, I will merge it and what this will help in is everyone has their way of solving problem and wiriting the code for it. By looking at people's code of the same question you are doing will help grow everyone.|
+
+|8.    | templateBasic.cpp    | This is just a basic C++ template which ``` #include ``` the ```<bits/stdc++.h>``` header file which conatains almost all the header files so you can be free of the hassle of including every header file you need.|
+|9.    | templateCP.cpp   |This is the compeptetve coding template most of the coders out there use. It has a lot of macros to make you fast during the contests (if you are a beginner then please do yourself a favor and ignore this) |
 
 
 

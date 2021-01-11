@@ -8,14 +8,6 @@ using namespace std;
 
 int main()
 {
-    int sizeOfArray;
-    cin >> sizeOfArray;
 
-    int arr[sizeOfArray]; // Declaring an array named arr if size 'sizeOfArray'
-
-    for (int i = 0; i < sizeOfArray; i++)
-        cin >> arr[i]; // Taking input from the user in this array 'arr'
-
-    for (int j = 0; j < sizeOfArray; j++)
-        cout << arr[j]; // Printing the elements in the arrray to the console
+    return 0;
 }
