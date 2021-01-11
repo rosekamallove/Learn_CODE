@@ -10,7 +10,7 @@ So why not contribute to it ?
 >"Everyone should code, It teaches you how to think." --Steve Jobs
 ---
 
-- ### What are the features of this repo?
+- ### What are the features of this repository?
 
     - All of the code files of the Apna College Playlist.
 
