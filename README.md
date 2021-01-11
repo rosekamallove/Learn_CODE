@@ -64,7 +64,7 @@ So why not contribute to it ?
 
 [VS-Code Article](https://code.visualstudio.com/docs/cpp/config-mingw)
 
-## Setting up C++ Coding Environment on Windows:
+## Setting up C++ Coding Environment on Linux:
 
 ### It is very easy on linux... just copy paste in the following commands in the terminal.
 
