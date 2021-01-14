@@ -185,9 +185,18 @@ I took a group of seniors to the GNOME Summit where they presented their work to
 Students get excited about working on a real project where their work is publicly visible. Many instructors struggle with how to motivate students to learn. Participation in an open source project provides students with motivation that is tied to the content being learned. As one student said about their open source participation, "This experience has been invaluable and will change how I continue to learn as a software engineer throughout my career."
 
 
-# The Open Source Computer Science Degree
+---
+---
+---
+
+# Resources for learning SWE/CS
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
+
+
+
+
+
 
 ## Computer Science Basics
 
