@@ -37,6 +37,8 @@ So why not contribute to it ?
     - Getting in a habbit of Open-Source Contribution.
     - Getting in a habbit of looking at other people's code. 
 
+[Tutorial on how to use this Repository](HowToUseThisRepo.md)
+ 
 ---
 # Details about the Folders in the Repository :
 
@@ -186,8 +188,7 @@ Students get excited about working on a real project where their work is publicl
 
 
 ---
----
----
+
 
 # Resources for learning SWE/CS
 
@@ -239,10 +240,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Build a Modern Computer from First Principles: From Nand to Tetris II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnand2tetris2) | Hebrew University of Jerusalem | 6 weeks | 10-15 hours/week | once a month | Build a Modern Computer from First Principles: From Nand to Tetris
 [Introduction to Operating Systems](https://imp.i115008.net/introduction-to-operating-systems)| Georgia Tech | 8 weeks | 5-8 hours/week | self-paced | Build a Modern Computer from First Principles: From Nand to Tetris II
 
----
----
----
----
+
 
 ## Theory
 
