@@ -37,7 +37,7 @@ So why not contribute to it ?
     - Getting in a habbit of Open-Source Contribution.
     - Getting in a habbit of looking at other people's code. 
 
-[Tutorial on how to use this Repository](HowToUseThisRepo.md)
+[Tutorial on how to use this Repository](HowToUseThiRepo.md)
  
 ---
 # Details about the Folders in the Repository :
