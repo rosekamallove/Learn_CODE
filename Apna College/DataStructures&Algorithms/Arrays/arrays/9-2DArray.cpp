@@ -20,7 +20,7 @@ int main()
     {
         for (int j = 0; j < m; j++)
         {
-            cout >> arr[i][j] << " ";
+            cout << arr[i][j] << " ";
         }
     }
     cout << endl;

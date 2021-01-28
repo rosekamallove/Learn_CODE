@@ -12,7 +12,8 @@ class Student
 
 public:
     /*
-    Essentially, they are meant to allow a class to restrict access to members (fields or functions)
+    Essentially, they are meant to allow a class to restrict access to members 
+    (fields or functions)
     Broadly speaking, public means everyone is allowed to access,
     private means that only members of the same class are allowed to access,
     and protected means that members of subclasses are also allowed.
@@ -22,9 +23,11 @@ public:
     bool gender;
 
     /*
-    Getter and Setter in Java are two conventional methods used to retrieve and update values of a variable. 
+    Getter and Setter in Java are two conventional methods used to retrieve and 
+    update values of a variable. 
     They are mainly used to create, modify, delete and view the variable values. 
-    The setter method is used for updating values and the getter method is used for reading or retrieving the values.
+    The setter method is used for updating values and the getter method 
+    is used for reading or retrieving the values.
     */
 
     void setName(string s)
@@ -65,7 +68,8 @@ int main()
     Student arr[3];
     for (int i = 0; i < 3; i++)
     {
-        //cin >> arr[i].name; as the class memeber is private we can not access it like this.
+        //cin >> arr[i].name; as the class memeber is private we 
+        //can not access it like this.
         arr[i].setName(s);
         cin >> arr[i].age;
         cin >> arr[i].gender;
