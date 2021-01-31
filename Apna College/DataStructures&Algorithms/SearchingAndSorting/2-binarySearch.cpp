@@ -25,7 +25,8 @@ int linearSearch(int arr[], int n, int key)
 }//Time Complexity: O(n)
 
 /*
--> The elements have to be in sorted order before searching
+-> The elements have to be in a sorted order before searching
+
 Search a sorted array by repeatedly dividing the search interval in half. 
 Begin with an interval covering the whole array. 
 If the value of the search key is less than the item in the middle of 
