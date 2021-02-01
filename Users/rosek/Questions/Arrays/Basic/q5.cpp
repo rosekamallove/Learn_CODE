@@ -5,6 +5,6 @@ write a program to sort a given array
 using namespace std;
 int main()
 {
-
+    
     return 0;
 }
