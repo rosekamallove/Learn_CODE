@@ -1,4 +1,4 @@
-/* insert an ekement from unsorted array to its 
+/* insert an element from unsorted array to its 
 correct position in sortes array*/
 
 #include <iostream>

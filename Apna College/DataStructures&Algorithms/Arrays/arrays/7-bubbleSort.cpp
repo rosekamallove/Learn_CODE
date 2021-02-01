@@ -1,4 +1,4 @@
-/* repeatedly swap teo adjacent elements 
+/* repeatedly swap two adjacent elements 
   if they are in wrong order */
 
 #include <iostream>
