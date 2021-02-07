@@ -12,8 +12,7 @@ So why not contribute to it ?
 
 - ### What are the features of this repository?
 
-    - All of the code files of the Apna College Playlist.
-
+    - Links to all of Computer Science from top Universities like MIT, Stanford, Duke, etc
     - Guiding articles, RoadMaps and Checklists
  
     - Question Bank: The problem statement and template and the  GFG link already written you just have to write the code. 
@@ -43,11 +42,11 @@ So why not contribute to it ?
 
 |S.No  |  Folder/File Name    |   About the contents   |
 |----- |------           | ------                 |
-|1.    | [Apna College](https://github.com/rosekamallove/Learn_CODE/tree/master/Apna%20College)    | This folder contains all the code fron the [C++ Complete Placement Course on Apna College](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)   .     |
-|2.    | [Articles To Read](https://github.com/rosekamallove/Learn_CODE/tree/master/Articles%20to%20Read)    | This folder contains all the roadmaps, guides, checklists.|
-|3.    | [Programming Books](https://github.com/rosekamallove/Learn_CODE/tree/master/Programming%20Books)    | This folder contains a lot of programming related books, (Reading them is not recommended only use them for reference purposes.    |
-|4.    | [Questions](https://github.com/rosekamallove/Learn_CODE/tree/master/Questions)  | This folder contains Data Structures and Algorithm questions.  The problem statement and template and the GFG links are already written you just have to write the code.|
-|5.    | [STL](https://github.com/rosekamallove/Learn_CODE/tree/master/STL)   | This folder contains the main three topics of the Standard Template Library in C++ (``` Vectors ``` ``` Sets ``` and ``` Maps ```).|
+|1.    | [Basics](https://github.com/rosekamallove/Learn_CODE/tree/master/Basics)    | This folder contains all the basics of C++ that one has to learn before moving on to DSA (STL (``` Vectors ``` ``` Sets ``` and ``` Maps ```) is an exception it can also be learned later or I should say it should be learnd after learnign some basic DataStructures)   .     |
+|2.    | [DataStructures&Algorithm](https://github.com/rosekamallove/Learn_CODE/tree/master/DataStructures&Algorithms)    | This folder contains as the name suggests DataStructures and Algorithms written in C++, after you have learned the basics of a programming language move on with this.  |
+|3.    | [Articles To Read](https://github.com/rosekamallove/Learn_CODE/tree/master/Articles%20to%20Read)    | This folder contains all the roadmaps, guides, checklists.|
+|4.    | [Programming Books](https://github.com/rosekamallove/Learn_CODE/tree/master/Programming%20Books)    | This folder contains a lot of programming related books, (Reading them is not recommended only use them for reference purposes.    |
+|5.    | [Questions](https://github.com/rosekamallove/Learn_CODE/tree/master/Questions)  | This folder contains Data Structures and Algorithm questions.  The problem statement and template and the GFG links are already written you just have to write the code.|
 |6.    | [theNewBoston](https://github.com/rosekamallove/Learn_CODE/tree/master/theNewBoston)   | This folder contains the code for [The New Boston C++ Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83)|
 |7.    | templateBasic.cpp    | This is just a basic C++ template which ``` #include ``` the ```<bits/stdc++.h>``` header file which conatains almost all the header files so you can be free of the hassle of including every header file you need.|
 |8.    | templateCP.cpp   |This is the compeptetve coding template most of the coders out there use. It has a lot of macros to make you fast during the contests (if you are a beginner then please do yourself a favor and ignore this) |
