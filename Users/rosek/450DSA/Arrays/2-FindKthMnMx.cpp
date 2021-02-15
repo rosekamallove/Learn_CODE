@@ -2,7 +2,7 @@
 => Find the Kth larges and kth minimum element
 */
 
-#include<bits/stdc+.h>
+#include<bits/stdc++.h>
 using namespace std;
 
 void insertionSort(int arr[], int n);
@@ -12,6 +12,7 @@ void bubbleSort(int arr[], int n);
 int main()
 {
   int n, k; cin>>n>>k;
+  int arr[n];
   for(int i=0; i<n; i++) cin>>arr[i]; 
   
   bubbleSort(arr, n);
@@ -73,6 +74,34 @@ void selectionSort(int arr[], int n)
   }
 }
 void bubbleSort(int arr[], int n)
-{
-  
+{// ==> Repeatedly swap two elements if they are in wrong order.
+  for(int i=0; i<n-1; i++)
+  {
+    for(int j=0; j<n-i-1; j++)
+      if(arr[j]>arr[i]) swap (arr[j], arr[i];
+  } 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
