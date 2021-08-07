@@ -1,6 +1,5 @@
 # Learn_CODE with your peers!
 This is a repository which contains all the topics that I @rosekamallove studied while learning coding and am currently learning Data Structures and Algorithms, and all the code I wrote are in this repo and I am thinking of making this repo more like a Learning resourse. 
-So why not contribute to it ?  
 
 &NewLine;
 &NewLine;
@@ -10,32 +9,18 @@ So why not contribute to it ?
 >"Everyone should code, It teaches you how to think." --Steve Jobs
 ---
 
-- ### What are the features of this repository?
+#### What are the features of this repository?
+- _**Links to all of Computer Science from top Universities like MIT, Stanford, Duke, etc**_
+- Guiding articles, RoadMaps and Checklists
+- One Stop for programming books:
 
-    - _**Links to all of Computer Science from top Universities like MIT, Stanford, Duke, etc**_
-    - Guiding articles, RoadMaps and Checklists
- 
-    - Question Bank: The problem statement and template and the  GFG link already written you just have to write the code. 
-    
-
-    - You can make a branch and start solving questions and make your own solution bank in that way we will multiple people solving the same problem with different approach, win win.
-
-    - A great resource for our juniors or who are at a lower skill level.
-
-    - One Stop for programming books:
-        
-        - Data Strucutres and Algorithms
-
-        - Programming Languages
-        - Databases
-        - Linux and Windows Command Line
-        - Web Development
-        - App Development
-        - Competitive Coding
-
-    - Getting in a habbit of Open-Source Contribution.
-    - Getting in a habbit of looking at other people's code. 
-
+    - Data Strucutres and Algorithms
+    - Programming Languages
+    - Databases
+    - Linux and Windows Command Line
+    - Web Development
+    - App Development
+    - Competitive Coding
 
 ---
 
