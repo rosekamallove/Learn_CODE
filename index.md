@@ -5,7 +5,7 @@ This is a repository which contains all the topics that I @rosekamallove studied
 &NewLine;
 
 >“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.” --Bill Gates
-
+>
 >"Everyone should code, It teaches you how to think." --Steve Jobs
 ---
 
